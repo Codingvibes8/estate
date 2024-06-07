@@ -2,7 +2,10 @@
 
 1, create next app with typescript
 2, Intergrate data base with prisma
-3,create the models
+3, Create the models
+4, Migrate user model and view in prisma studio
+5, Set up Authentication with Kinde
+
 
 
 
