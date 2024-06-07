@@ -4,7 +4,8 @@
 2, Intergrate data base with prisma
 3, Create the models
 4, Migrate user model and view in prisma studio
-5, Set up Authentication with Kinde
+5, Set up Authentication with Kinde Auth
+6, Set up Components Folder
 
 
 
